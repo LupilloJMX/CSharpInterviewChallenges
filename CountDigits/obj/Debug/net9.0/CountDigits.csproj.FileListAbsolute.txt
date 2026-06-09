@@ -1,0 +1,14 @@
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\bin\Debug\net9.0\CountDigits.exe
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\bin\Debug\net9.0\CountDigits.deps.json
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\bin\Debug\net9.0\CountDigits.runtimeconfig.json
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\bin\Debug\net9.0\CountDigits.dll
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\bin\Debug\net9.0\CountDigits.pdb
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\CountDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\CountDigits.AssemblyInfoInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\CountDigits.AssemblyInfo.cs
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\CountDigits.csproj.CoreCompileInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\CountDigits.dll
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\refint\CountDigits.dll
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\CountDigits.pdb
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\CountDigits.genruntimeconfig.cache
+C:\DevelopNET\CSharpInterviewChallenges\CountDigits\obj\Debug\net9.0\ref\CountDigits.dll

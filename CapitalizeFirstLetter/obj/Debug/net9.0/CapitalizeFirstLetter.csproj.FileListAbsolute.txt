@@ -1,0 +1,14 @@
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\bin\Debug\net9.0\CapitalizeFirstLetter.exe
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\bin\Debug\net9.0\CapitalizeFirstLetter.deps.json
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\bin\Debug\net9.0\CapitalizeFirstLetter.runtimeconfig.json
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\bin\Debug\net9.0\CapitalizeFirstLetter.dll
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\bin\Debug\net9.0\CapitalizeFirstLetter.pdb
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\CapitalizeFirstLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\CapitalizeFirstLetter.AssemblyInfoInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\CapitalizeFirstLetter.AssemblyInfo.cs
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\CapitalizeFirstLetter.csproj.CoreCompileInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\CapitalizeFirstLetter.dll
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\refint\CapitalizeFirstLetter.dll
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\CapitalizeFirstLetter.pdb
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\CapitalizeFirstLetter.genruntimeconfig.cache
+C:\DevelopNET\CSharpInterviewChallenges\CapitalizeFirstLetter\obj\Debug\net9.0\ref\CapitalizeFirstLetter.dll

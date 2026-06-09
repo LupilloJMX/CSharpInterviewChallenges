@@ -1,0 +1,14 @@
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\bin\Debug\net9.0\FindSecondLargest..exe
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\bin\Debug\net9.0\FindSecondLargest..deps.json
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\bin\Debug\net9.0\FindSecondLargest..runtimeconfig.json
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\bin\Debug\net9.0\FindSecondLargest..dll
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\bin\Debug\net9.0\FindSecondLargest..pdb
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\FindSecondLargest..GeneratedMSBuildEditorConfig.editorconfig
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\FindSecondLargest..AssemblyInfoInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\FindSecondLargest..AssemblyInfo.cs
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\FindSecondLargest..csproj.CoreCompileInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\FindSecondLargest..dll
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\refint\FindSecondLargest..dll
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\FindSecondLargest..pdb
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\FindSecondLargest..genruntimeconfig.cache
+C:\DevelopNET\CSharpInterviewChallenges\FindSecondLargest\obj\Debug\net9.0\ref\FindSecondLargest..dll

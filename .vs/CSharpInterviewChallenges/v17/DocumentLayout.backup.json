@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevelopNET\\CSharpInterviewChallenges\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AB7A0C-DADF-489C-B349-2E23DDE60E1B}|CapitalizeFirstLetter\\CapitalizeFirstLetter.csproj|c:\\developnet\\csharpinterviewchallenges\\capitalizefirstletter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AB7A0C-DADF-489C-B349-2E23DDE60E1B}|CapitalizeFirstLetter\\CapitalizeFirstLetter.csproj|solutionrelative:capitalizefirstletter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E92AAB0-3B1B-4D83-84BD-89F6474AF275}|MostRepeatedCharacter\\MostRepeatedCharacter.csproj|c:\\developnet\\csharpinterviewchallenges\\mostrepeatedcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E92AAB0-3B1B-4D83-84BD-89F6474AF275}|MostRepeatedCharacter\\MostRepeatedCharacter.csproj|solutionrelative:mostrepeatedcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46893F-3717-4A1C-9279-609F6CB77C5B}|ReverseNumber\\ReverseNumber.csproj|c:\\developnet\\csharpinterviewchallenges\\reversenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D46893F-3717-4A1C-9279-609F6CB77C5B}|ReverseNumber\\ReverseNumber.csproj|solutionrelative:reversenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233A38A3-E795-4898-9BB3-F4D7C110EF7C}|FindSecondLargest\\FindSecondLargest..csproj|c:\\developnet\\csharpinterviewchallenges\\findsecondlargest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233A38A3-E795-4898-9BB3-F4D7C110EF7C}|FindSecondLargest\\FindSecondLargest..csproj|solutionrelative:findsecondlargest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569671A0-F3A5-4459-9FD8-E953427CA606}|CountDigits\\CountDigits.csproj|c:\\developnet\\csharpinterviewchallenges\\countdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569671A0-F3A5-4459-9FD8-E953427CA606}|CountDigits\\CountDigits.csproj|solutionrelative:countdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevelopNET\\CSharpInterviewChallenges\\CapitalizeFirstLetter\\Program.cs",
+              "RelativeDocumentMoniker": "CapitalizeFirstLetter\\Program.cs",
+              "ToolTip": "C:\\DevelopNET\\CSharpInterviewChallenges\\CapitalizeFirstLetter\\Program.cs",
+              "RelativeToolTip": "CapitalizeFirstLetter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T17:06:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevelopNET\\CSharpInterviewChallenges\\MostRepeatedCharacter\\Program.cs",
+              "RelativeDocumentMoniker": "MostRepeatedCharacter\\Program.cs",
+              "ToolTip": "C:\\DevelopNET\\CSharpInterviewChallenges\\MostRepeatedCharacter\\Program.cs",
+              "RelativeToolTip": "MostRepeatedCharacter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T17:00:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevelopNET\\CSharpInterviewChallenges\\ReverseNumber\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseNumber\\Program.cs",
+              "ToolTip": "C:\\DevelopNET\\CSharpInterviewChallenges\\ReverseNumber\\Program.cs",
+              "RelativeToolTip": "ReverseNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:49:07.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevelopNET\\CSharpInterviewChallenges\\FindSecondLargest\\Program.cs",
+              "RelativeDocumentMoniker": "FindSecondLargest\\Program.cs",
+              "ToolTip": "C:\\DevelopNET\\CSharpInterviewChallenges\\FindSecondLargest\\Program.cs",
+              "RelativeToolTip": "FindSecondLargest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:30:56.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevelopNET\\CSharpInterviewChallenges\\CountDigits\\Program.cs",
+              "RelativeDocumentMoniker": "CountDigits\\Program.cs",
+              "ToolTip": "C:\\DevelopNET\\CSharpInterviewChallenges\\CountDigits\\Program.cs",
+              "RelativeToolTip": "CountDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:28:18.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

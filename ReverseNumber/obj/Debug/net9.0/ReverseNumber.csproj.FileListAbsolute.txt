@@ -1,0 +1,14 @@
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\bin\Debug\net9.0\ReverseNumber.exe
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\bin\Debug\net9.0\ReverseNumber.deps.json
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\bin\Debug\net9.0\ReverseNumber.runtimeconfig.json
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\bin\Debug\net9.0\ReverseNumber.dll
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\bin\Debug\net9.0\ReverseNumber.pdb
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ReverseNumber.AssemblyInfoInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ReverseNumber.AssemblyInfo.cs
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ReverseNumber.dll
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\refint\ReverseNumber.dll
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ReverseNumber.pdb
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ReverseNumber.genruntimeconfig.cache
+C:\DevelopNET\CSharpInterviewChallenges\ReverseNumber\obj\Debug\net9.0\ref\ReverseNumber.dll
