@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.37314.3 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11626.88 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDigits", "CountDigits\CountDigits.csproj", "{569671A0-F3A5-4459-9FD8-E953427CA606}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostRepeatedCharacter", "MostRepeatedCharacter\MostRepeatedCharacter.csproj", "{9E92AAB0-3B1B-4D83-84BD-89F6474AF275}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalizeFirstLetter", "CapitalizeFirstLetter\CapitalizeFirstLetter.csproj", "{E3AB7A0C-DADF-489C-B349-2E23DDE60E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitBasic", "AsyncAwaitBasic\AsyncAwaitBasic.csproj", "{B4E663DA-D929-43B3-904A-8972A55AEB14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E3AB7A0C-DADF-489C-B349-2E23DDE60E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3AB7A0C-DADF-489C-B349-2E23DDE60E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3AB7A0C-DADF-489C-B349-2E23DDE60E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E663DA-D929-43B3-904A-8972A55AEB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E663DA-D929-43B3-904A-8972A55AEB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E663DA-D929-43B3-904A-8972A55AEB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E663DA-D929-43B3-904A-8972A55AEB14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
