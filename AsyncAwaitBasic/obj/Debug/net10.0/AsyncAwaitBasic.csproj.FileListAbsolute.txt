@@ -1,0 +1,15 @@
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\bin\Debug\net10.0\AsyncAwaitBasic.exe
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\bin\Debug\net10.0\AsyncAwaitBasic.deps.json
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\bin\Debug\net10.0\AsyncAwaitBasic.runtimeconfig.json
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\bin\Debug\net10.0\AsyncAwaitBasic.dll
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\bin\Debug\net10.0\AsyncAwaitBasic.pdb
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.AssemblyInfoInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.AssemblyInfo.cs
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.csproj.CoreCompileInputs.cache
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.sourcelink.json
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.dll
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\refint\AsyncAwaitBasic.dll
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.pdb
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\AsyncAwaitBasic.genruntimeconfig.cache
+C:\DevelopNET\CSharpInterviewChallenges\AsyncAwaitBasic\obj\Debug\net10.0\ref\AsyncAwaitBasic.dll
